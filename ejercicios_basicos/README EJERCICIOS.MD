@@ -1,7 +1,5 @@
 🧪 Documentación — Ejercicio 1: Validación de contraseña
 
-Puedes copiar esto a Notion y luego al README del repo.
-
 📌 Descripción
 
 Se desarrolló una función en Python capaz de validar contraseñas según reglas comunes de seguridad.
