@@ -1,4 +1,6 @@
-🧪 Documentación — Ejercicio 1: Validación de contraseña
+🧪 Documentación 
+
+Ejercicio 1: Validación de contraseña
 
 📌 Descripción
 
